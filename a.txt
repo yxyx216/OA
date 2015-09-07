@@ -2,6 +2,5 @@
 222222
 3333
 4444
-dev udpate 01
-dev update 02
 master udpate 01
+dev 01
